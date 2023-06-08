@@ -1,7 +1,8 @@
 import Image from 'next/image'
+import Homepage from './homepage/page'
 
 export default function Home() {
   return (
-    <h1>Hello world</h1>
+    <p>project</p>
   )
 }
